@@ -14,6 +14,7 @@ it really calms me down
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="45" height="45"/>
 </p>
 <!---
 Lubwama-Emmanuel/Lubwama-Emmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
