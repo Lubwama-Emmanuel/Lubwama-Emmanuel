@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Emmanuel Lubwama
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Backend+-end+Developer)
 - A backend developer working with Nodejs 
 - Currently learning new technologies
 - Love coding,
@@ -16,6 +17,8 @@ it really calms me down
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="45" height="45"/>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lubwama-Emmanuel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Lubwama-Emmanuel" /></p>
 <!---
 Lubwama-Emmanuel/Lubwama-Emmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
