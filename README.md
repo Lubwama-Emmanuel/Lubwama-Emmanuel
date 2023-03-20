@@ -26,6 +26,8 @@ it really calms me down
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="45" height="45" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lubwama-Emmanuel&layout=compact)](https://github.com/Lubwama-Emmanuel/github-readme-stats)
+
 <!---
 Lubwama-Emmanuel/Lubwama-Emmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
