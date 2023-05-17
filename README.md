@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lubwama-Emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Lubwama-Emmanuel" /> </p>
 
 🔭 I’m currently working on **Full stack projects using Golang, Nodejs and express plus Reactjs**
-- Currently learning new technologies
+- Currently learning new technologies and having fun
 - Love coding,
 it really calms me down
 
