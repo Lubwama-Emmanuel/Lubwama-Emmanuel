@@ -7,6 +7,7 @@
 🔭 I’m currently working on **Full pledged Backend projects using Golang, Nodejs and expressjs**
 - Currently learning new technologies and having fun
 - Love coding solutions,
+- Solving as many problems as I can,
 it really calms me down
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned Include:</h2>
