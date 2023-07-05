@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **Fully pledged projects using React, Golang, Nodejs, and expressjs.**
 - Currently learning new technologies and having fun
-- Love coding solutions,
+- Love coding solutions to world-class problems,
 - Solving as many problems as I can,
 it really calms me down
 
