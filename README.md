@@ -9,7 +9,7 @@
 - Love coding the best solutions to world-class problems,
 - Solving as many problems as I can,
 it really calms me down and makes me feel better
-- I love challenges
+- I love coding challenges
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned Include:</h2>
 <p align="left">
