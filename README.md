@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lubwama-Emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Lubwama-Emmanuel" /> </p>
 
-🔭 I’m currently working on **Fully pledged projects using Reactjs, Redux, React Native, Nextjs, Golang, Nodejs, and expressjs firebase, Machine learning,AI**
+🔭 I’m currently working on **Fully pledged projects using Reactjs, React Native, Nextjs, Golang, Nodejs, and expressjs firebase, Machine learning,AI**
 - Currently learning new technologies and having fun
 - Love coding the best solutions to world-class problems,
 - Solving as many problems as I can,
