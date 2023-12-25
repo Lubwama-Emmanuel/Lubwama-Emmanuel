@@ -6,10 +6,10 @@
 
 🔭 I’m currently working on **Fully pledged projects and mobile (both iOS and android) applications using, React Native, React, Nextjs, Redux, Golang, Nodejs, and expressjs, firebase, Machine learning**
 - Currently learning new technologies and having fun
-- Love coding the best solutions to world-class problems,
+- Love coding the best solutions to world-class problems in all ways i can,
 - Solving as many problems as I can,
 it really calms me down and makes me feel better
-- I love coding challenges
+- I love coding challenges 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned Include:</h2>
 <p align="left">
