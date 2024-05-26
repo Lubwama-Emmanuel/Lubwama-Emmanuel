@@ -8,7 +8,7 @@
 - Currently learning new technologies and having fun
 - Love coding the best solutions to world-class problems in all ways i could,
 - Solving as many problems as I can,
-it really calms me down and makes me feel better
+it really calms me down and makes me feel better n better
 - I love coding and working on challenges and problems
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned Include:</h2>
