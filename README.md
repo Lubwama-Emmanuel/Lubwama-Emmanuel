@@ -4,12 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lubwama-Emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Lubwama-Emmanuel" /> </p>
 
-🔭 I’m currently working on **Fully pledged projects and mobile (both iOS and android) applications using, React Native, expo, React, Nextjs, Redux, Golang, Nodejs, and expressjs, firebase, ML**
+🔭 I’m currently working on **Fully pledged mobile (both iOS and Android) applications using, React Native, expo, React, Nextjs, Redux, Golang, Nodejs, expressjs, firebase, and ML**
 - Currently learning new technologies and having fun
-- Love coding the best solutions to world-class problems in all ways i could,
+I love coding the best solutions to world-class problems in all ways I can,
 - Solving as many problems as I can,
-it really calms me down and makes me feel better n better
+it calms me down and makes me feel better and better
 - I love coding and working on challenges and problems
+- I talk about mobile, react native, expo, and all things native
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned Include:</h2>
 <p align="left">
@@ -21,7 +22,9 @@ it really calms me down and makes me feel better n better
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
