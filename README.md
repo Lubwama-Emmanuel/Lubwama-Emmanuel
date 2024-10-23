@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lubwama-Emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Lubwama-Emmanuel" /> </p>
 
-🔭 I’m currently working on **Fully pledged mobile (both iOS and Android) applications using, React Native, expo, React, Nextjs, Redux, Golang, Nodejs, Expressjs, firebase, and ML**
-- Currently learning new technologies and having fun
-I love coding the best solutions to world-class problems in all ways I can,
-- Solving as many problems as I can,
-it calms me down and makes me feel better and better
-- I love coding and working on challenges and problems
-- I talk about mobile, react native, expo, and all things native
+🔭 Currently working on: Developing full-fledged mobile applications for both iOS and Android using technologies like React Native, Expo, React, Next.js, Redux, Golang, Node.js, Express, Firebase, and exploring Machine Learning.
+
+🌱 Learning & Growing: Constantly exploring new technologies and enjoying the process of continuous learning.
+
+💻 Passion for Problem-Solving: I thrive on solving complex problems and creating innovative solutions that address real-world challenges. Coding gives me a sense of calm and fulfillment, and I’m always eager to tackle new challenges.
+
+🚀 What I Love: Coding, collaborating, and working on projects that push the boundaries of mobile development. I’m passionate about React Native, Expo, and all things related to mobile and web development.
+
+Let’s connect and talk about mobile development, React Native, and anything tech!
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned Include:</h2>
 <p align="left">
