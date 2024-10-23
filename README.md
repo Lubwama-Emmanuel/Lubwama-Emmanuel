@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lubwama-Emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Lubwama-Emmanuel" /> </p>
 
-🔭 I’m currently working on **Fully pledged mobile (both iOS and Android) applications using, React Native, expo, React, Nextjs, Redux, Golang, Nodejs, expressjs, firebase, and ML**
+🔭 I’m currently working on **Fully pledged mobile (both iOS and Android) applications using, React Native, expo, React, Nextjs, Redux, Golang, Nodejs, Expressjs, firebase, and ML**
 - Currently learning new technologies and having fun
 I love coding the best solutions to world-class problems in all ways I can,
 - Solving as many problems as I can,
